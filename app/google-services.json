@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "270708640045",
+    "project_id": "jharmedia-5b64f",
+    "storage_bucket": "jharmedia-5b64f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270708640045:android:df02e7f8bb0ca3cc16aba4",
+        "android_client_info": {
+          "package_name": "com.example.jharmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270708640045-b60dc8qqkg89is6qrhesqtfajvugp9os.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXkZ2HMZKl8r36SB_FzQxy_a2rJq41S1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270708640045-b60dc8qqkg89is6qrhesqtfajvugp9os.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

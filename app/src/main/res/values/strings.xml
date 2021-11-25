@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Jharmedia</string>
+    <string name="home">Home</string>
+    <string name="notification">Notification</string>
+    <string name="post">Post</string>
+    <string name="search">Search</string>
+    <string name="user">user</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Home Page</string>
+</resources>
